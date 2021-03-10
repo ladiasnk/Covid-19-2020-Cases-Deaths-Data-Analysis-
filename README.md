@@ -1,1 +1,5 @@
 # Covid-19-2020-Cases-Deaths-Data-Analysis-
+In this repository a set of Matlab scripts was uploaded. These scripts were implemented in the context of a Data Analysis course I took during the 7th semester of my studies as an Electrical Engineer in the Aristotle University of Thessaloniki. I was given an excel sheet containing all the values of daily new cases and deaths since the beginning of the pandemic and specifically in the period 1/1/2020 to 13/12/2020, for 156 countries and for countries only with more than 1 million population.
+
+First scripts import the data for Armenia and find the best fitting model for Armenia's daily new cases and daily new deaths during the first wave of the pandemic.
+Many analyzes are implemented , like scanning the data to find the best correlation coefficient between a delayed deaths distribution for many countries and the cases distribution. Using this method models were exported to use them to foresee what future waves could have in store for daily new deaths.
